@@ -1,0 +1,12 @@
+comparison,score,mean_1,mean_2,difference,cohens_d,p_value
+test_prep: completed vs none,math,69.6955,64.0779,5.6176,0.379,0.0
+test_prep: completed vs none,reading,73.8939,66.5343,7.3596,0.5235,0.0
+test_prep: completed vs none,writing,74.419,64.5047,9.9143,0.6977,0.0
+test_prep: completed vs none,average,72.6695,65.0388,7.6307,0.5601,0.0
+lunch: standard vs free/reduced,math,70.0341,58.9211,11.113,0.7703,0.0
+lunch: standard vs free/reduced,reading,71.6543,64.6535,7.0007,0.4871,0.0
+lunch: standard vs free/reduced,writing,70.8233,63.0225,7.8007,0.5237,0.0
+lunch: standard vs free/reduced,average,70.8371,62.199,8.6381,0.6243,0.0
+gender: female vs male,math,63.6332,68.7282,-5.095,-0.3412,0.0
+gender: female vs male,reading,72.6081,65.473,7.1351,0.504,0.0
+gender: female vs male,writing,72.4672,63.3112,9.156,0.6321,0.0

@@ -1,0 +1,10 @@
+check,records
+students (rows),1000
+missing values,0
+duplicate rows,0
+scores outside 0-100,0
+scores equal to 0,1
+text values with extra spaces,0
+low outliers in math (IQR rule),8
+low outliers in reading (IQR rule),6
+low outliers in writing (IQR rule),5
